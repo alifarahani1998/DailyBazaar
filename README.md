@@ -1,4 +1,4 @@
-# Background-Service Application
+# An Android Application for Online Shopping
 A Complete Flutter Application including REST api, Database, Background services, Responsive UI, Maps and Local Notification.
 
 <a href="url"><img src="https://github.com/alifarahani1998/Background-Service-Application/blob/master/assets/images/Screenshot_1632042756.png" align="left" height="700" width="400" ></a>
